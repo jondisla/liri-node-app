@@ -1,9 +1,10 @@
 {
   "name": "liri-node-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "My First  twitter",
+  "main": "liri.js",
   "scripts": {
+    "start": "node liri.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -11,7 +12,7 @@
     "url": "git+https://github.com/jondisla/liri-node-app.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jon Disla",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jondisla/liri-node-app/issues"
@@ -19,9 +20,11 @@
   "homepage": "https://github.com/jondisla/liri-node-app#readme",
   "dependencies": {
     "dotenv": "^5.0.1",
+    "inquirer": "^5.2.0",
     "install": "^0.11.0",
     "jshint": "^2.9.5",
     "node-spotify-api": "^1.0.7",
+    "prompt": "^1.0.0",
     "request": "^2.85.0",
     "twitter": "^1.7.1"
   }
