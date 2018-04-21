@@ -46,7 +46,11 @@ node liri.js my-tweets
 
 * This is a [guide](https://www.npmjs.com/package/twitter) for using the Twitter api with node
 
-
+### Running the Spotify app
+Uncomment the twitter section in the liri.js file (important) and run the following code...
+```
+node liri.js spotify-this-song nameofsong
+```
 ![spotify app](https://user-images.githubusercontent.com/15232818/39079689-0be593ae-44ee-11e8-8851-f002d340789f.JPG)
 
 * This is a [guide](https://www.npmjs.com/package/node-spotify-api) for using the Spotify api with node
