@@ -49,4 +49,4 @@ node liri.js my-tweets
 
 ![spotify app](https://user-images.githubusercontent.com/15232818/39079689-0be593ae-44ee-11e8-8851-f002d340789f.JPG)
 
-
+* This is a [guide](https://www.npmjs.com/package/node-spotify-api) for using the Spotify api with node
